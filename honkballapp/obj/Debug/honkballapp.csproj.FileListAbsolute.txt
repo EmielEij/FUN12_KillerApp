@@ -1,0 +1,24 @@
+C:\Users\Emiel Eij\Desktop\fun\honkball app\C# aplicatie\honkballapp\honkballapp\bin\Debug\Honkbalcompetitie.mdf
+C:\Users\Emiel Eij\Desktop\fun\honkball app\C# aplicatie\honkballapp\honkballapp\bin\Debug\Honkbalcompetitie_log.ldf
+C:\Users\Emiel Eij\Desktop\fun\honkball app\C# aplicatie\honkballapp\honkballapp\bin\Debug\honkballapp.exe.config
+C:\Users\Emiel Eij\Desktop\fun\honkball app\C# aplicatie\honkballapp\honkballapp\bin\Debug\honkballapp.exe
+C:\Users\Emiel Eij\Desktop\fun\honkball app\C# aplicatie\honkballapp\honkballapp\bin\Debug\honkballapp.pdb
+C:\Users\Emiel Eij\Desktop\fun\honkball app\C# aplicatie\honkballapp\honkballapp\obj\Debug\honkballapp.csprojAssemblyReference.cache
+C:\Users\Emiel Eij\Desktop\fun\honkball app\C# aplicatie\honkballapp\honkballapp\obj\Debug\honkballapp.Form1.resources
+C:\Users\Emiel Eij\Desktop\fun\honkball app\C# aplicatie\honkballapp\honkballapp\obj\Debug\honkballapp.Properties.Resources.resources
+C:\Users\Emiel Eij\Desktop\fun\honkball app\C# aplicatie\honkballapp\honkballapp\obj\Debug\honkballapp.csproj.GenerateResource.cache
+C:\Users\Emiel Eij\Desktop\fun\honkball app\C# aplicatie\honkballapp\honkballapp\obj\Debug\honkballapp.csproj.CoreCompileInputs.cache
+C:\Users\Emiel Eij\Desktop\fun\honkball app\C# aplicatie\honkballapp\honkballapp\obj\Debug\honkballapp.exe
+C:\Users\Emiel Eij\Desktop\fun\honkball app\C# aplicatie\honkballapp\honkballapp\obj\Debug\honkballapp.pdb
+C:\Users\Emiel\Source\Repos\FUN12\honkballapp\bin\Debug\Honkbalcompetitie.mdf
+C:\Users\Emiel\Source\Repos\FUN12\honkballapp\bin\Debug\Honkbalcompetitie_log.ldf
+C:\Users\Emiel\Source\Repos\FUN12\honkballapp\bin\Debug\honkballapp.exe.config
+C:\Users\Emiel\Source\Repos\FUN12\honkballapp\bin\Debug\honkballapp.exe
+C:\Users\Emiel\Source\Repos\FUN12\honkballapp\bin\Debug\honkballapp.pdb
+C:\Users\Emiel\Source\Repos\FUN12\honkballapp\obj\Debug\honkballapp.csprojAssemblyReference.cache
+C:\Users\Emiel\Source\Repos\FUN12\honkballapp\obj\Debug\honkballapp.Form1.resources
+C:\Users\Emiel\Source\Repos\FUN12\honkballapp\obj\Debug\honkballapp.Properties.Resources.resources
+C:\Users\Emiel\Source\Repos\FUN12\honkballapp\obj\Debug\honkballapp.csproj.GenerateResource.cache
+C:\Users\Emiel\Source\Repos\FUN12\honkballapp\obj\Debug\honkballapp.csproj.CoreCompileInputs.cache
+C:\Users\Emiel\Source\Repos\FUN12\honkballapp\obj\Debug\honkballapp.exe
+C:\Users\Emiel\Source\Repos\FUN12\honkballapp\obj\Debug\honkballapp.pdb
